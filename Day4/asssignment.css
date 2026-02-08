@@ -1,0 +1,43 @@
+/* Q5: Font for entire document */
+body {
+    font-family: Georgia, serif;
+}
+
+/* Q2 + Q3 + Q9 */
+p {
+    color: red;             
+    text-align: center;     
+    line-height: 30px;     
+}
+
+/* Q3 */
+h1, h3, h4 {
+    text-align: center;
+}
+
+/* Q4 */
+h3 {
+    color: black; 
+}
+
+/* Q6 */
+a {
+    color: rgb(0, 128, 0);
+    text-decoration: none;
+}
+
+/* Q7 */
+button {
+    background-color: white;
+    color: blueviolet;
+}
+
+/* Q8 */
+textarea {
+    color: #000000; 
+}
+
+/* Q10 */
+.oz {
+    text-decoration: underline;
+}
