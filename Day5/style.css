@@ -1,0 +1,21 @@
+/* 1. Set font family of entire document */
+body {
+    font-family: "Courier New", Courier, monospace;
+}
+
+/* 2. Set text color for all h1 headings */
+h1 {
+    color: #1b74e4;
+}
+
+/* 3. Search button background black & text white */
+.search {
+    background-color: black;
+    color: white;
+}
+
+/* 4. Login & Signup button background aqua */
+.login,
+.signup {
+    background-color: aqua;
+}

@@ -1,0 +1,54 @@
+/* Q2 - Center all text */
+* {
+    text-align: center;
+}
+
+/* Q1 - h1 id color blue */
+#mainTopic {
+    color: blue;
+}
+
+/* Q3 - All headings font */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif;
+}
+
+/* Q4 - Paragraph styling (without using only p selector) */
+body p {
+    color: white;
+    background-color: cornflowerblue;
+}
+
+/* Q5 - Buttons inside div */
+div button {
+    background-color: purple;
+    color: azure;
+}
+
+/* Q6 - Hover effect */
+button:hover {
+    background-color: yellow;
+    color: blue;
+}
+
+/* Q7 - Odd numbered paragraphs */
+p:nth-of-type(odd) {
+    color: yellow;
+}
+
+/* Q8 - First letter of h1 */
+h1::first-letter {
+    color: red;
+}
+
+/* Q9 - Checkbox label color when checked */
+#yes:checked + label {
+    color: darkgreen;
+}
+
+/* Q10 - Specificity order (least → most)
+main
+h1
+div main
+#mainContent
+*/
