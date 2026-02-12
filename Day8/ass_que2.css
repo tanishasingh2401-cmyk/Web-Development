@@ -1,0 +1,52 @@
+.container {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    gap: 10px;
+}
+
+.container div {
+    background-color: lightblue;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Header */
+.header {
+    grid-column: 1 / span 12;
+}
+
+/* Navigation */
+.navigation {
+    grid-column: 1 / span 12;
+    grid-row: 2;
+}
+
+/* Sidebar */
+.sidebar {
+    grid-column: 1 / span 3;
+    grid-row: 3 / span 9;
+}
+
+/* Main */
+.main {
+    grid-column: 4 / span 9;
+    grid-row: 3 / span 9;
+}
+
+/* Ads */
+.ads {
+    grid-column: 1 / span 3;
+    grid-row: 12;
+}
+
+/* Footer */
+.footer {
+    grid-column: 4 / span 9;
+    grid-row: 12;
+}
