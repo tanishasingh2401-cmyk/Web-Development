@@ -1,3 +1,4 @@
+//ASSIGNMENT
 // Q1️⃣ Get first n elements of an array
 let arr1 = [7, 9, 0, -2];
 let n1 = 3;
