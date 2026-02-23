@@ -1,3 +1,6 @@
+//JAVASCRIPT -02
+
+//ASSIGNMENT 
 // Ans 1
 let num = 20;
 
