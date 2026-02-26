@@ -9,3 +9,4 @@ function checkString(){
         document.getElementById("result").innerHTML = "Not a Good String";
     }
 }
+//javafile
