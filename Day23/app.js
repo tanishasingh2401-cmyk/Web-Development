@@ -1,4 +1,4 @@
-//GAME
+//GAME -SAYMONS
 let gameSeq = [];
 let userSeq = [];
 
