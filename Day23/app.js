@@ -1,6 +1,7 @@
 //GAME -SAYMONS
 //hgegfhghf
 //hhhh
+//hhh
 let gameSeq = [];
 let userSeq = [];
 
