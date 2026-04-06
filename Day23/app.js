@@ -2,6 +2,7 @@
 //hgegfhghf
 //hhhh
 //hhh
+//fhv
 let gameSeq = [];
 let userSeq = [];
 
