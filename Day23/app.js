@@ -5,6 +5,7 @@
 //fhv
 //hhhh
 //thth
+//FUCK OFF
 let gameSeq = [];
 let userSeq = [];
 
