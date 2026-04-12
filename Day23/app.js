@@ -1,13 +1,5 @@
 //GAME -SAYMONS
-//hgegfhghf
-//hhhh
 //hhh
-//fhv
-//hhhh
-//thth
-//FUCK OFF
-//gfgfg
-//gdggd
 let gameSeq = [];
 let userSeq = [];
 
