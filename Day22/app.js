@@ -1,5 +1,5 @@
 //JAVASCRIPT 
-//worked
+//worked hard
 let btn = document.querySelector("button");
 let ul = document.querySelector("ul");
 let inp = document.querySelector("input");
