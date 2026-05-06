@@ -1,4 +1,4 @@
-//day 12
+//day 12 completed
 function checkPrice(){
 
     var size = document.getElementById("size").value.toUpperCase();
